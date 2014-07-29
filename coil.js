@@ -86,15 +86,4 @@
 	});
 
 	window.Coil = new Coil;
-	window.Model = Model;
 })();
-
-
-
-
-/*change: function() {
-		this.render();
-	}
-*/
-
-//regex /([A-Za-z_][A-Za-z_0-9]+) ([^\s]*)/
